@@ -79,8 +79,8 @@ This HTML has been checked and validated through the official [Nu HTML Checker](
 ## 👨‍💻 Author
 **Keval Motisariya**  
 Full-Stack & Flutter Developer  
-📧 kevalmotisariya@gmail.com  
-🌍 [LinkedIn](https://linkedin.com/in/kevalmotisariya) | [GitHub](https://github.com/kevalmotisariya)
+📧 kevalmotisariya225@gmail.com  
+🌍 [LinkedIn](https://www.linkedin.com/in/keval-motisariya/) | [GitHub](https://github.com/kevalmotisariya)
 
 ---
 
